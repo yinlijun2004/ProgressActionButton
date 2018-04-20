@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressActionButton">
+        <attr name="initBg" format="reference" />
+        <attr name="successBg" format="reference" />
+        <attr name="failBg" format="reference"/>
+        <attr name="progressBg" format="reference"/>
+        <attr name="progressFg" format="reference"/>
+        <attr name="disableBg" format="reference"/>
+        <attr name="buttonRadius" format="dimension"/>
+    </declare-styleable>
+</resources>

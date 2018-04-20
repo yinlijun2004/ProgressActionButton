@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_button_radius">8dp</dimen>
+    <dimen name="download_title_width">80dp</dimen>
+    <dimen name="progress_action_button_height">15dp</dimen>
+    <dimen name="progress_action_button_text_size">12dp</dimen>
+    <dimen name="download_item_margin_top">12dp</dimen>
+
+</resources>
